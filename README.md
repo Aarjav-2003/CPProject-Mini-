@@ -1,4 +1,4 @@
-#<b>CPP</b>roject-Mini-
+<h1><b>CPP</b>roject-Mini-</h1>
 <p>The major purpose of this code is to model a system that handles cargo items with a focus on security and tamper detection. </p>
 <ul>
   <li>The code uses classes and inheritance to model real-world entities (CargoItem and SecureCargoItem) and their behaviors. This helps in organizing code, promoting reuse, and enhancing maintainability.</li>
